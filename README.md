@@ -17,3 +17,6 @@ Test data is provided in car-rental-insert.sql.
 ### Run Test Queries
 Test queries are provided in car-rental-query.sql.
 
+> I am attempting to fill a silent moment with non-relevant conversation.  
+> &nbsp;&nbsp;&nbsp;&nbsp;- Lt. Cmdr. Data  
+> &nbsp;&nbsp;&nbsp;&nbsp;Star Trek: The Next Generation
